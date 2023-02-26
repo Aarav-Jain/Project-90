@@ -1,0 +1,21 @@
+body
+{
+	text-align: center;
+}
+
+	.div1 , .div2
+	{
+		background: white;
+		border-radius: 15px;
+	  
+    text-align: center;
+  }
+  #output
+  {
+	  background: white;
+	  border-radius: 10px;
+	  border-top: 10px solid #AA4465;
+	  padding: 10px;
+	  float: none;
+	  text-align: left;
+  }
